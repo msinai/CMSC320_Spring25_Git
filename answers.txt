@@ -12,4 +12,8 @@ For example, a business can analyze what is selling well in places with certian 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines the changes of branches at one point and keeps the history of both branches as seperate branches,
-while rebasing adds the history of one branch onto the end of the history of another.
+while rebasing adds the history of one branch onto the end of the history of another. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking foward to learning how to use my knowledge in computer science to gain insights about large sets of data. 
